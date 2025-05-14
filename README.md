@@ -1,4 +1,4 @@
-# Rish-23072005-text-classification-finetuning-using-BERT
+#Text-classification-finetuning-using-BERT
 
 This project demonstrates how to fine-tune a BERT model for sentiment analysis using the Hugging Face Transformers library and provides both a Flask API and a Gradio interface for making predictions.
 
